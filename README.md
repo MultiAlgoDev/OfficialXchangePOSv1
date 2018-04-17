@@ -64,4 +64,4 @@ Stay tuned for announcements in the Xchange v1 POS coin Discord!  -- https://dis
 
 
 
-Note:It is not the fake 2.0 MN coin POW that was listed on the Komodo exchange, Symbol XCG.  It's symbol will be announced closer to launch.  It is important for the investor/traders to not validate XCG, as it is an unofficial fork.
+Note:  It is not the fake 2.0 MN coin POW that was listed on the Komodo exchange, Symbol XCG.  It's symbol will be announced closer to launch.  It is important for the investor/traders to not validate XCG, as it is an unofficial fork.  Discriminate carefully friends.
